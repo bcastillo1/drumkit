@@ -1,0 +1,11 @@
+---
+title: boom
+date: 2018-05-16 22:44:00 Z
+tags:
+- boom
+- sound
+file: "/uploads/boom.wav"
+keycode: 66
+---
+
+a booming sound
