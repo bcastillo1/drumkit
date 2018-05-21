@@ -20,4 +20,9 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: pretty
+    permalink: pretty
+    file:
+    keycode:
+- scope:
+  path: ''
+  type: posts
