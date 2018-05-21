@@ -18,11 +18,8 @@ defaults:
 - scope:
     path: ''
     type: pages
+       file:
+    keycode:
   values:
     layout: page
     permalink: pretty
-    file:
-    keycode:
-- scope:
-  path: ''
-  type: posts
